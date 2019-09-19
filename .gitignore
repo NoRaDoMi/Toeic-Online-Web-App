@@ -1,0 +1,13 @@
+/.idea
+/out
+/toeic-core-dao/target
+/toeic-core-dao-impl/target
+/toeic-core-data/target
+/toeic-core-dto/target
+/toeic-core-service/target
+/toeic-core-service-impl/target
+/toeic-core-utils/target
+/toeic-platform-web/target
+/toeic-platform-web-logic/target
+/toeic-platform-web/toeic-platform-web.iml
+/ToeicOnlineWebApp.iml
